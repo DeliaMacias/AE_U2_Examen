@@ -1,0 +1,30 @@
+//solo vender un producto a la vez, 
+folio:
+fecha
+produto: _id
+cant
+subtotal
+iva
+total 
+utilidad
+
+
+Producto
+//insercion 
+Venta
+//insertar se debe actualizar el producto restando verificar primero cuantos tengo
+
+EXAMEN 1: calcular la utilidad :cuanto e vendido cuanto me costo (lo que e ganado)
+
+EXAMEN 2:
+Basado en el minimo y maximo debo consultar la tabla de productos cuanto puedo comprar 
+minimo > cantidad 
+
+
+
+enviar por correo electronico la lista de compras.
+
+mandar comprar lo que me falta
+
+nones 2:
+par: 1
